@@ -4,7 +4,15 @@
 
 I build software and hardware systems. My work focuses on hardware-accelerated machine learning, high-throughput web apps, and stochastic optimization.
 
-Previously researching at **Georgia Tech CFML** and **Stanford S3L**.
+---
+
+### 🏛 Prev (Experience)
+
+* **Rayfield Systems** &nbsp; ![Role](https://img.shields.io/badge/Founder_/_Dev-000000?style=flat-square)
+* **Georgia Tech CFML** &nbsp; ![Role](https://img.shields.io/badge/Research-000000?style=flat-square)
+* **Stanford S3L** &nbsp; ![Role](https://img.shields.io/badge/Research-000000?style=flat-square)
+* **UH Dept. of Math** &nbsp; ![Role](https://img.shields.io/badge/Math_Research-000000?style=flat-square)
+* **LiMESS Lab** &nbsp; ![Role](https://img.shields.io/badge/Hardware_Research-000000?style=flat-square)
 
 ---
 
@@ -12,7 +20,7 @@ Previously researching at **Georgia Tech CFML** and **Stanford S3L**.
 
 **AceCycle App**
 ![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white) ![ML](https://img.shields.io/badge/ML-000000?style=flat-square)
-* Mobile sustainability platform.
+* Mobile sustainability platform using computer vision.
 * **Impact:** 1.5K+ Downloads.
 
 **Motivator (RAG Agent)**
@@ -66,3 +74,7 @@ Previously researching at **Georgia Tech CFML** and **Stanford S3L**.
 * **USACO Platinum** (Top 110)
 * **AIME Qualifier**
 * **Champions Energy Scholar**
+
+<br>
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Nishant27-2006&show_icons=true&theme=transparent&hide_border=true&title_color=555&text_color=888&icon_color=555)
