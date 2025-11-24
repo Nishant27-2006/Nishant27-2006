@@ -1,105 +1,66 @@
-<h1 align="center">Hi, I'm <strong>Nishant Gadde</strong> 👋</h1>
-<p align="center">
-  <strong>ML Researcher • Full-Stack Developer • Open-Source Builder</strong><br>
-  Prev: Stanford S3L • UH Dept. of Math • LIMESS Lab
-</p>
-
----
-
-## 🚀 About Me
-I'm a developer + researcher working at the intersection of **machine learning**, **optimization**, and **real-world product engineering**.  
-I build tools that help people learn better, stay motivated, and make data-driven decisions.
-
----
-
-## 🧠 Tech Stack
-<div style="display: flex; flex-wrap: wrap;">
+<div align="center">
+  <h1>Hi, I'm Nishant Gadde 🤘</h1>
+  <h3>ECE Honors + Math @ UT Austin</h3>
   
-**ML / Data:**  
-Python • PyTorch • scikit-learn • NumPy • Pandas • JAX  
+  <p>
+    <b>Researching & Building at the intersection of Hardware, ML, and Software.</b>
+  </p>
 
-**Backend:**  
-FastAPI • Flask • Node.js • Supabase • MongoDB • PostgreSQL  
+  <p>
+    <a href="https://github.com/Nishant27-2006">
+      <img src="https://img.shields.io/badge/Focus-Hardware_Accelerated_ML_%7C_Neuromorphic_Computing-000000?style=flat&logo=nvidia&logoColor=76B900" alt="Focus" />
+    </a>
+    <a href="https://github.com/Nishant27-2006">
+      <img src="https://img.shields.io/badge/Research_@-GT_CFML_%7C_Stanford_S3L_%7C_LiMESS-000000?style=flat&logo=school&logoColor=white" alt="Research Labs" />
+    </a>
+  </p>
 
-**Frontend / Apps:**  
-React • Next.js • Tailwind • React Native • Expo  
-
-**Tools:**  
-Docker • GitHub Actions • AWS • Figma  
-
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=Nishant27-2006&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=bf91f3&icon_color=bf91f3" alt="Nishant's GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nishant27-2006&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=bf91f3" alt="Top Languages" />
+  </p>
 </div>
 
 ---
 
-## 🔥 Featured Projects
+### ⚡ The Hardware-Software Intersection
 
-### 🥗 **Meal Grader**  
-Enter foods you ate → get a personalized health grade.  
-Used by **200+ tennis players**.  
-→ *Open-source release coming soon*
-
----
-
-### 💬 **Motivator (RAG)**  
-AI-powered motivation engine using retrieval-augmented generation.  
-**1.2K daily users**.
+| **Hardware & Systems** | **Machine Learning** | **Full Stack & Deploy** |
+| :--- | :--- | :--- |
+| <img src="https://img.shields.io/badge/Arch-System_Verilog-red" /> <br> <img src="https://img.shields.io/badge/Arch-Embedded_C-blue" /> <br> <img src="https://img.shields.io/badge/IoT-Sensors-yellow" /> | <img src="https://img.shields.io/badge/AI-PyTorch-EE4C2C" /> <br> <img src="https://img.shields.io/badge/Model-Gaussian_Processes-green" /> <br> <img src="https://img.shields.io/badge/Model-Transformers-orange" /> | <img src="https://img.shields.io/badge/Web-React_/_Next.js-000000" /> <br> <img src="https://img.shields.io/badge/Cloud-AWS-232F3E" /> <br> <img src="https://img.shields.io/badge/DB-Supabase_/_SQL-3ECF8E" /> |
 
 ---
 
-### 📘 **Worksheet Generator**  
-Generate K–12 practice worksheets from text prompts.  
-Exports `.tex` for Overleaf. Used by **7+ Gideon franchises**.
+### 🚀 Engineering & Deployments
+> *Production-grade software backed by mathematical rigor.*
+
+| Project | Technical Depth & Impact | Stack |
+| :--- | :--- | :--- |
+| **AceCycle App** <br> _Mobile Sustainability Platform_ | 📱 **1.5K+ Downloads** <br> ⚙️ Uses ML for tennis ball recycling optimization. | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![ML](https://img.shields.io/badge/-ML-FF6F00) |
+| **Motivator (RAG)** <br> _Context-Aware AI Agent_ | 👥 **1.2K Daily Users** <br> 🧠 Implements Retrieval-Augmented Generation pipelines. | ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?logo=openai&logoColor=white) ![Vector DB](https://img.shields.io/badge/-Vector_DB-ff0000) |
+| **Meal Grader** <br> _Algorithmic Nutrition Analysis_ | 🎾 Used by **200+ Athletes** <br> 📊 Quantifies nutritional data for performance. | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) |
+| **Worksheet Generator** <br> _Automated LaTeX Compilation_ | 🏫 Used by **7+ Franchises** <br> 📄 Programmatic .tex generation & compilation. | ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?logo=latex&logoColor=white) ![Scripting](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white) |
 
 ---
 
-### 🎾 **AceCycle Manager**  
-Open-source ML-driven system for tennis stores to track & manage ball usage.  
-Used by **10+ stores**.
+### 🔬 Research (Hardware/ML/Math)
+> *Focused on optimization, signal processing, and power flow.*
+
+* **[IEEE] Towards Real-Time Machine Learning Approximations of AC Optimal Power Flow** (May 2025)
+    * *Intersection: Power Systems (Hardware) + ML Optimization.*
+* **[IEEE] Motion-Resilient Deep Learning for ECG Signal Classification** (Mar 2025)
+    * *Intersection: Bio-Sensors (Hardware) + Signal Processing + Deep Learning.*
+* **[arXiv] Adaptive Parameter Optimization in Gaussian Processes** (Jul 2025)
+    * *Focus: Probabilistic Math & Uncertainty Quantification.*
+* **[IEEE] Deep Learning Models for Analyzing Gait Dynamics** (Mar 2025)
 
 ---
 
-### 📱 **AceCycle App**  
-Mobile app for tennis ball recycling suggestions & usage tracking.  
-Over **1.5K downloads**.
+### 🏆 Distinction
+* **Competitive:** USACO Platinum (Top 110), AIME Qualifier
+* **Academic:** Champions Energy Scholar, Best Paper Award @ ICCA
+* **Labs:** Prior @ Georgia Tech CFML, Stanford S3L, UH Math Dept.
 
----
-
-## 📄 Publications (Selected)
-- **Optimized SVR Framework for Electric Load Forecasting** — arXiv, 2025  
-- **Adaptive Parameter Optimization in Gaussian Processes** — arXiv, 2025  
-- **Real-Time ML Approximations of AC Optimal Power Flow** — IEEE, 2025  
-- **Deep Learning for Gait Dynamics in Neurodegenerative Diseases** — IEEE, 2025  
-- **Motion-Resilient Deep Learning for ECG Classification** — IEEE, 2025  
-- **Dynamic Regularization in Trust-Region Optimization** — TechRxiv, 2024  
-
-*(Full list on website)*
-
----
-
-## 🏆 Awards
-- Champions Energy Scholar  
-- 2nd Place — **MLArchSys Challenge**  
-- **Best Paper Award @ ICCA**  
-- 4× IEEE Author (2× First Author)  
-- **USACO Platinum** (Top 110)  
-- AIME Qualifier  
-- PVSA Recipient  
-
----
-
-## 📰 Features
-- **Bold Journey — Meet Nishant Gadde** (Interview on entrepreneurship & AI)  
-- **Bold Journey — Where Does Your Generosity Come From?**  
-- **Green Marked — Game, Set, Green** (AceCycle sustainability feature)
-
----
-
-## 📫 Connect
-<p align="left">
-  <a href="https://github.com/Nishant27-2006"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"></a>
-  <a href="https://www.linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"></a>
-  <a href="https://yourwebsite.com"><img src="https://img.shields.io/badge/Website-000000?logo=vercel&logoColor=white"></a>
-</p>
-
----
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Nishant27-2006&style=flat-square&color=bf91f3" alt="Profile Views" />
+</div>
