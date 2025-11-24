@@ -75,6 +75,3 @@ I build software and hardware systems. My work focuses on hardware-accelerated m
 * **AIME Qualifier**
 * **Champions Energy Scholar**
 
-<br>
-
-![Stats](https://github-readme-stats.vercel.app/api?username=Nishant27-2006&show_icons=true&theme=transparent&hide_border=true&title_color=555&text_color=888&icon_color=555)
