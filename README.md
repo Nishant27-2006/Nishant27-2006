@@ -7,86 +7,65 @@
     <code>GT CFML</code>
   </p>
   <p>
-    <a href="mailto:nishantg@utexas.edu">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
-    <a href="https://linkedin.com/in/nishant-gadde">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-    <a href="https://github.com/Nishant27-2006">
-      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-    </a>
+    <a href="mailto:nishantg@utexas.edu">Email</a> •
+    <a href="https://linkedin.com/in/nishant-gadde">LinkedIn</a> •
+    <a href="https://github.com/Nishant27-2006">GitHub</a>
   </p>
 </div>
 
 ---
 
-<div align="center">
-  <h3>🛠️ Tech Stack</h3>
-  <p>
-    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,cpp,c,rust&perline=6" />
-  </p>
-  <p>
-    <img src="https://skillicons.dev/icons?i=go,scala,swift,matlab,java,js&perline=6" />
-  </p>
-  <p>
-    <img src="https://skillicons.dev/icons?i=docker,kubernetes,kafka,aws,linux,git&perline=6" />
-  </p>
-  <p>
-    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,firebase,vscode,latex&perline=6" />
-  </p>
-</div>
+### 👨‍💻 About Me
+
+ML researcher working on power systems optimization, neural architecture search, and embedded AI. Interested in hardware-software co-design and neuromorphic computing.
+
+**Current:** UT Austin ECE Honors + Math (4.0 GPA)
 
 ---
 
-<div align="center">
-  <h3>📊 GitHub Stats</h3>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nishant27-2006&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nishant27-2006&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</div>
+### 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,cpp,c,rust&perline=6" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=go,scala,swift,docker,kubernetes,aws&perline=6" />
+</p>
+
+**ML/AI:** PyTorch • TensorFlow • Scikit-Learn • Transformers • HuggingFace • XGBoost  
+**Systems:** Docker • Kubernetes • Spark • Kafka • AWS • Linux  
+**Languages:** Python • C/C++ • Rust • Go • Scala • Swift • MATLAB • Verilog
 
 ---
 
-<div align="center">
-  <h3>🏆 Highlights</h3>
-  <p>
-    <img src="https://img.shields.io/badge/2nd_Place-MLArchSys_2025-gold?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/USACO-Platinum-purple?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/IEEE-4x_Author-blue?style=for-the-badge" />
-  </p>
-  <p>
-    <img src="https://img.shields.io/badge/GPA-4.0%2F4.0-brightgreen?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/AIME-Qualifier-orange?style=for-the-badge" />
-  </p>
-</div>
+### 📊 GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Nishant27-2006&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nishant27-2006&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nishant27-2006&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</p>
 
 ---
 
-<div align="center">
-  <h3>📚 Focus Areas</h3>
-  <p>
-    <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-    <img src="https://img.shields.io/badge/Neural_Architecture_Search-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  </p>
-  <p>
-    <img src="https://img.shields.io/badge/Power_Systems-green?style=for-the-badge&logo=lightning&logoColor=white" />
-    <img src="https://img.shields.io/badge/Embedded_AI-red?style=for-the-badge&logo=raspberrypi&logoColor=white" />
-  </p>
-  <p>
-    <img src="https://img.shields.io/badge/Hardware--Software_Codesign-blueviolet?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/Neuromorphic_Computing-teal?style=for-the-badge" />
-  </p>
-</div>
+### 🏆 Achievements
+
+- 🥈 **2nd Place** @ MLArchSys 2025 ArchReasoning Challenge (ISCA Workshop) — 132 participants
+- 📝 **4x IEEE Author** — CAI, ICMLCA conferences
+- 🏅 **USACO Platinum** — Top 110 nationally
+- 🎓 **Champions Energy Scholar**
+- 🧮 **AIME Qualifier**
 
 ---
 
-<div align="center">
-  <h3>📈 Activity</h3>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nishant27-2006&theme=tokyonight&hide_border=true" />
-</div>
+### 📚 Research Interests
+
+Machine Learning Systems • Power Grid Optimization • Neural Architecture Search • Model Quantization • Hardware-Aware ML • Neuromorphic Computing
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Nishant27-2006&style=for-the-badge&color=7aa2f7" />
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Nishant27-2006&style=flat-square&color=7aa2f7" />
+</p>
