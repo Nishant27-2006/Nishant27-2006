@@ -1,66 +1,67 @@
 <div align="center">
-  <h1>Hi, I'm Nishant Gadde 🤘</h1>
-  <h3>ECE Honors + Math @ UT Austin</h3>
+  <h1 align="center">Nishant Gadde</h1>
+  <h3 align="center">ECE Honors + Math @ UT Austin</h3>
+  <p align="center">
+    <b>Hardware-Software Co-Design &bull; Neuromorphic Computing &bull; Machine Learning</b>
+  </p>
+
+  <p align="center">
+    <code>Prev: GT CFML</code> &bull; 
+    <code>Stanford S3L</code> &bull; 
+    <code>UH Dept. of Math</code> &bull; 
+    <code>LiMESS Lab</code>
+  </p>
   
-  <p>
-    <b>Researching & Building at the intersection of Hardware, ML, and Software.</b>
-  </p>
+  <br/>
 
-  <p>
-    <a href="https://github.com/Nishant27-2006">
-      <img src="https://img.shields.io/badge/Focus-Hardware_Accelerated_ML_%7C_Neuromorphic_Computing-000000?style=flat&logo=nvidia&logoColor=76B900" alt="Focus" />
-    </a>
-    <a href="https://github.com/Nishant27-2006">
-      <img src="https://img.shields.io/badge/Research_@-GT_CFML_%7C_Stanford_S3L_%7C_LiMESS-000000?style=flat&logo=school&logoColor=white" alt="Research Labs" />
-    </a>
-  </p>
-
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=Nishant27-2006&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=bf91f3&icon_color=bf91f3" alt="Nishant's GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nishant27-2006&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=bf91f3" alt="Top Languages" />
-  </p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,cpp,c,verilog,react,nextjs,tailwind,supabase,aws,latex&perline=12" />
+  </a>
 </div>
 
----
+<br/>
 
-### ⚡ The Hardware-Software Intersection
+## ⚡ Engineering & Deployments
+*High-impact software serving **3,000+ combined users**.*
 
-| **Hardware & Systems** | **Machine Learning** | **Full Stack & Deploy** |
+| Project | Impact & Metrics | Tech Stack |
 | :--- | :--- | :--- |
-| <img src="https://img.shields.io/badge/Arch-System_Verilog-red" /> <br> <img src="https://img.shields.io/badge/Arch-Embedded_C-blue" /> <br> <img src="https://img.shields.io/badge/IoT-Sensors-yellow" /> | <img src="https://img.shields.io/badge/AI-PyTorch-EE4C2C" /> <br> <img src="https://img.shields.io/badge/Model-Gaussian_Processes-green" /> <br> <img src="https://img.shields.io/badge/Model-Transformers-orange" /> | <img src="https://img.shields.io/badge/Web-React_/_Next.js-000000" /> <br> <img src="https://img.shields.io/badge/Cloud-AWS-232F3E" /> <br> <img src="https://img.shields.io/badge/DB-Supabase_/_SQL-3ECF8E" /> |
+| **AceCycle App**<br>*(Aug 2024)* | 📱 **1.5K Downloads**<br>Used to personalize tennis ball recycling via ML suggestions. | `Python` `ML` `Mobile` |
+| **Motivator (RAG)**<br>*(Jun 2025)* | 👥 **1.2K Daily Users**<br>Daily motivation chat powered by Retrieval-Augmented Generation. | `RAG` `LLMs` `VectorDB` |
+| **Meal Grader**<br>*(Jun 2025)* | 🎾 **200+ Athletes**<br>Health grading tool for tennis players. | `TypeScript` `React` |
+| **Worksheet Generator**<br>*(Jun 2025)* | 🏫 **7+ Gideon Franchises**<br>Text-to-Worksheet automation; compiles `.tex` on Overleaf. | `LaTeX` `Overleaf` `GenAI` |
+| **AceCycle Manager**<br>*(Dec 2024)* | 🏢 **10+ Stores**<br>Open-source inventory management for recycling centers. | `Open Source` `Analytics` |
 
----
+<br/>
 
-### 🚀 Engineering & Deployments
-> *Production-grade software backed by mathematical rigor.*
+## 🔬 Publications & Research
+*Focus: Electric Load Forecasting, Gaussian Processes, & Bio-Dynamics.*
 
-| Project | Technical Depth & Impact | Stack |
-| :--- | :--- | :--- |
-| **AceCycle App** <br> _Mobile Sustainability Platform_ | 📱 **1.5K+ Downloads** <br> ⚙️ Uses ML for tennis ball recycling optimization. | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![ML](https://img.shields.io/badge/-ML-FF6F00) |
-| **Motivator (RAG)** <br> _Context-Aware AI Agent_ | 👥 **1.2K Daily Users** <br> 🧠 Implements Retrieval-Augmented Generation pipelines. | ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?logo=openai&logoColor=white) ![Vector DB](https://img.shields.io/badge/-Vector_DB-ff0000) |
-| **Meal Grader** <br> _Algorithmic Nutrition Analysis_ | 🎾 Used by **200+ Athletes** <br> 📊 Quantifies nutritional data for performance. | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) |
-| **Worksheet Generator** <br> _Automated LaTeX Compilation_ | 🏫 Used by **7+ Franchises** <br> 📄 Programmatic .tex generation & compilation. | ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?logo=latex&logoColor=white) ![Scripting](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white) |
+* **[arXiv] Optimized SVR Framework for Electric Load Forecasting** (Oct 7, 2025)
+* **[arXiv] Adaptive Parameter Optimization in Gaussian Processes: A Comprehensive Study of Uncertainty Quantification and Dimensional Scaling** (Jul 20, 2025)
+* **[IEEE] Towards Real-Time Machine Learning Approximations of AC Optimal Power Flow** (May 20, 2025)
+* **[IEEE] Motion-Resilient Deep Learning for ECG Signal Classification** (Mar 18, 2025)
+* **[IEEE] Deep Learning Models for Analyzing Gait Dynamics in Neurodegenerative Diseases** (Mar 18, 2025)
+* **[TechRXIV] Dynamic Regularization in Trust-Region Optimization for Nonlinear Constraints** (Nov 21, 2024)
+* **[IEEE] Automated Detection of Heart Disease Using PhysioNet ECG Signals and Machine Learning Models** (Oct 18, 2024)
 
----
+<br/>
 
-### 🔬 Research (Hardware/ML/Math)
-> *Focused on optimization, signal processing, and power flow.*
+## 📰 News & Features
+* **[Bold Journey] Meet Nishant Gadde:** Interview discussing entrepreneurial journey and AI innovation.
+* **[Green Marked] Game, Set, Green:** AceCycle featured for sustainability solutions in sports recycling.
+* **[Bold Journey] Where Does Your Generosity Come From?:** Personal story on community motivation.
 
-* **[IEEE] Towards Real-Time Machine Learning Approximations of AC Optimal Power Flow** (May 2025)
-    * *Intersection: Power Systems (Hardware) + ML Optimization.*
-* **[IEEE] Motion-Resilient Deep Learning for ECG Signal Classification** (Mar 2025)
-    * *Intersection: Bio-Sensors (Hardware) + Signal Processing + Deep Learning.*
-* **[arXiv] Adaptive Parameter Optimization in Gaussian Processes** (Jul 2025)
-    * *Focus: Probabilistic Math & Uncertainty Quantification.*
-* **[IEEE] Deep Learning Models for Analyzing Gait Dynamics** (Mar 2025)
+<br/>
 
----
+## 🏆 Awards & Honors
+> **Competitive:** USACO Platinum (Top 110), AIME Qualifier  
+> **Research:** Best Paper Conference Award @ ICCA, 2nd Place MLArchSys Challenge, 4x IEEE Author  
+> **Service:** PVSA (President's Volunteer Service Award), Champions Energy Scholar
 
-### 🏆 Distinction
-* **Competitive:** USACO Platinum (Top 110), AIME Qualifier
-* **Academic:** Champions Energy Scholar, Best Paper Award @ ICCA
-* **Labs:** Prior @ Georgia Tech CFML, Stanford S3L, UH Math Dept.
+<br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Nishant27-2006&style=flat-square&color=bf91f3" alt="Profile Views" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nishant27-2006&show_icons=true&theme=transparent&hide_border=true&title_color=3b82f6&text_color=a1a1aa&icon_color=3b82f6" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nishant27-2006&layout=compact&theme=transparent&hide_border=true&title_color=3b82f6&text_color=a1a1aa" height="150" alt="languages graph" />
 </div>
